@@ -1,0 +1,17 @@
+.signup-container {
+    display: flex;
+    flex-direction: column;
+
+    h2 {
+        margin: 12px 0px;
+        color: rgb(18, 19, 19);
+        font-size: 1.01em;
+    }
+
+    .form-actions {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: auto;
+    }
+}
